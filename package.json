@@ -1,5 +1,5 @@
 {
-  "name": "serverstarter",
+  "name": "Exercise Audio Couch",
   "version": "1.0.0",
   "description": "Browser Extension Backend for Real-Time News Authenticity Analysis",
   "main": "dist/server.js",

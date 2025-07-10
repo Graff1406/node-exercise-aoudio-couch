@@ -1,8 +1,6 @@
 import { Request, Response, Router } from 'express';
 
 import * as googleTTS from 'google-tts-api';
-import fs from 'fs';
-import https from 'https';
 
 const router = Router();
 
