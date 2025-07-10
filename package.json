@@ -28,7 +28,7 @@
   "homepage": "https://github.com/Graff1406/nodejs-server-fp-detectop-ai#readme",
   "devDependencies": {
     "@types/express": "^5.0.0",
-    "@types/node": "^22.13.0",
+    "@types/node": "^22.16.2",
     "@typescript-eslint/eslint-plugin": "^8.22.0",
     "@typescript-eslint/parser": "^8.22.0",
     "eslint": "^9.19.0",
@@ -45,6 +45,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "google-tts-api": "^2.0.2",
     "helmet": "^8.0.0",
     "morgan": "^1.10.0"
   }
