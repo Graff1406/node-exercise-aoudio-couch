@@ -2,9 +2,9 @@
   "name": "Exercise Audio Couch",
   "version": "1.0.0",
   "description": "Browser Extension Backend for Real-Time News Authenticity Analysis",
-  "main": "dist/server.js",
+  "main": "src/dist/server.js",
   "scripts": {
-    "start": "node dist/server.js",
+    "start": "node src/dist/server.js",
     "dev": "nodemon src/server.ts",
     "build": "tsc",
     "lint": "eslint . --ext .ts",
